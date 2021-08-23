@@ -1,0 +1,3 @@
+- Learning C++, C# & Python
+- Interested in Windows Software, Game Optimizations & OS Optimizations, Game Cheats, and more
+- Add me on discord cakeee#0001
