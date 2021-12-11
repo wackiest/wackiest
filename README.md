@@ -1,2 +1,2 @@
 - Attempting To Learn Python & HTML
-- Add me on discord virtue#0001
+- Add me on discord virtue#7905
