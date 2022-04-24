@@ -1,5 +1,5 @@
 amateur skid whos trying to learn python but struggling.
 
 +  **trying** to learn python atm
-+ my only discord: virtue#0002
++ discord: pokemon#0001 & virtue#0001
 
