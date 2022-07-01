@@ -1,5 +1,4 @@
-amateur skid whos trying to learn python but struggling.
 
-+  **trying** to learn python atm
++  **trying** to learn python & html
 + discord: vit#0001
 
