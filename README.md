@@ -11,7 +11,7 @@ I am currently a student and in my free time I like to work on projects or try t
 
 ## Widgets
 
-  <a href="http://discord.com">
+  <a href="https://discordlookup.com/user/954418137816780822">
     <img src="https://discord.c99.nl/widget/theme-4/954418137816780822.png"/>
   </a>
 </p>
