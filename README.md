@@ -8,5 +8,6 @@ I am currently a student and in my free time I like to work on projects or try t
 - 💯 You can reach me by either contacting me via [Discord](https://discordlookup.com/user/954418137816780822) or [Telegram](https://t.me/virtuezz)
 
 ### Widgets
+
 ![Virtue's GitHub stats](https://github-readme-stats.vercel.app/api?username=wackiest&show_icons=true&theme=radical)
 
