@@ -6,8 +6,11 @@ I am currently a student and in my free time I like to work on projects or try t
 
 - 🗣 I'm currently working on [scythe](https://github.com/wackiest/scythe) a multi-purpose discord bot 
 - 💯 You can reach me by either contacting me via [Discord](https://discordlookup.com/user/954418137816780822) or [Telegram](https://t.me/virtuezz)
+- 👑 
 
 ## Widgets
 
 ![Virtue's GitHub stats](https://github-readme-stats.vercel.app/api?username=wackiest&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wackiest&show_icons=true&theme=radical)
+
 
