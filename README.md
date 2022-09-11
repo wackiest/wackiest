@@ -4,7 +4,7 @@ I am currently a student and in my free time I like to work on projects or try t
 
 ## About me
 
-- 🗣 I'm currently working on [scythe]((https://github.com/wackiest/scythe) a multi-purpose discord bot 
+- 🗣 I'm currently working on [scythe](https://github.com/wackiest/scythe) a multi-purpose discord bot 
 
 ![Virtue's GitHub stats](https://github-readme-stats.vercel.app/api?username=wackiest&show_icons=true&theme=radical)
 
