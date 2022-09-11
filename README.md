@@ -19,6 +19,6 @@ I am currently a student and in my free time I like to work on projects or try t
 
 
   <a href="http://discord.com">
-    <img src="https://discord.c99.nl/widget/theme-5/954418137816780822.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/954418137816780822.png"/>
   </a>
 </p>
