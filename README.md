@@ -1,4 +1,4 @@
 
-+  **trying** to learn python & html
++  **trying** to learn python
 + discord: virtue#0001
 
