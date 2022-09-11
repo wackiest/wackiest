@@ -11,10 +11,14 @@ I am currently a student and in my free time I like to work on projects or try t
 
 ## Widgets
 
-![Virtue's Discord]https://discord.c99.nl/widget/theme-5/954418137816780822.png
+
 
 ![Virtue's GitHub stats](https://github-readme-stats.vercel.app/api?username=wackiest&show_icons=true&theme=radical)
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wackiest&theme=radical)
 
 
+  <a href="http://discord.com">
+    <img src="https://discord.c99.nl/widget/theme-5/954418137816780822.png"/>
+  </a>
+</p>
