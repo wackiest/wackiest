@@ -9,6 +9,10 @@ I am currently a student and in my free time I like to talk with friends, work o
 - 👑 I **only** speak English
 - ⚰️ I currently only know **python**
 
+## Note
+
+If you click on one of my repos and there is nothing in it, It is most likely private.
+
 ## Widgets
 
   <a href="https://discordlookup.com/user/954418137816780822">
